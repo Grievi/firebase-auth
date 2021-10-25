@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "fir-auth-80430": {
+      "hosting": {
+        "Firebase-Auth": [
+          "fir-auth-80430"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "fir-auth-80430"
+  }
+}
